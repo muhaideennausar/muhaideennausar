@@ -133,12 +133,6 @@ I'm passionate about **Full Stack Web Development**, **Python project developmen
 - Chat with your documents locally
 - Full-stack implementation with Docker deployment
 
-### 🎯 [Pomodoro Timer V2](https://github.com/muhaideennausar/pomodoro-timer)
-**Productivity App with Community Building**
-- Email capture for updates
-- Clean JavaScript implementation
-- Focus on user experience
-
 ### 🎨 Frontend Challenges
 **10+ Completed Frontend Mentor Challenges**
 - Responsive design mastery
@@ -150,10 +144,6 @@ I'm passionate about **Full Stack Web Development**, **Python project developmen
 - 🎨 **2+ Years** - Freelance Graphic Design Experience
 - 🚀 **Entrepreneur** - Founded AuraStack for SMB tech solutions
 - 💻 **Open Source Contributor** - Regular contributions to community projects
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhaideennausar&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhaideennausar&layout=compact&theme=radical&hide_border=true)
 
 ## 🎯 Current Focus
 - 🤖 Building more **offline AI applications**
